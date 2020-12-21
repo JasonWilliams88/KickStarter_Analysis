@@ -21,7 +21,7 @@
 ## Results
 ### Based on the Outcomes vs Launch Date
 - December will be the best time to release a theater performance 
-- The success rate is higher than the failure rate other than at one time point when all years are averaged 
+- The success rate for theater performances was higher than the failure rate accross all months when all years are averaged 
 
 ### Outcomes Based on Goals
 - Settling a lower financial goal was indicative of a higher success rate in respect to plays
