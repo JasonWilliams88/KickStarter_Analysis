@@ -29,4 +29,4 @@
 
 ### Limitations and Future Analysis
 - Outcome vs Goals was not weight against total projects allowing for outliers to cloudy the analysis for the larger goal ranges
-- Include a variance graph to cathc outliers and give more confidence in the findings
+- Include a variance graph to catch outliers and give more confidence in the findings
