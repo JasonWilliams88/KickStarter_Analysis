@@ -24,7 +24,7 @@
 - The success rate is higher than the failure rate other than at one time point when all years are averaged 
 
 ### Outcomes Based on Goals
-- Settling a lower financial was indicative of a higher success rate in respect to plays
+- Settling a lower financial goal was indicative of a higher success rate in respect to plays
 
 
 ### Limitations and Future Analysis
