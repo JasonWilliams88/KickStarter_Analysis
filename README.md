@@ -13,7 +13,9 @@
 ![Outcomes_vs_Goals](https://github.com/JasonWilliams88/KickStarter_Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered 
-Formatting the nested if functions was an issue. Using google searches I was able to get it down.
+- Formatting the nested if functions was an issue. Using google searches I was able to get it down.
+
+
 
 
 ## Results
@@ -23,3 +25,8 @@ Formatting the nested if functions was an issue. Using google searches I was abl
 
 ### Outcomes Based on Goals
 - Settling a lower financial wqas indicative of a higher success rate in respect to plays
+
+
+### Limitations and Future Analysis
+- Outcome vs Goals was not weight against total projects allowing for outliers to cloudy the analysis for the larger goal ranges
+- Include a variance graph to cathc outliers and give more confidence in the findings
