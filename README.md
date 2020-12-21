@@ -1,2 +1,4 @@
 # KickStarter_Analysis
-in depth analysis of kickstarter events
+## An indepth analysis of performance vs cost
+### Purpose
+
